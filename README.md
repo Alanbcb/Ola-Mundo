@@ -1,2 +1,2 @@
-# Ola Mundo
- primeiro reposito do curso ghit e guithub
+# Olá, Mundo!
+ Primeiro teste de conecção.
